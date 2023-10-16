@@ -1,4 +1,4 @@
-# Weekly Readings Archvive for GammaTauAI
+# Weekly Readings Archive for GammaTauAI
 
 | Week   | Paper                                                                                                          |
 |--------|----------------------------------------------------------------------------------------------------------------|
