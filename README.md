@@ -8,3 +8,4 @@
 | Week 3 | [One Policy to Control Them All: Shared Modular Policies for Agent-Agnostic Control](https://arxiv.org/pdf/2007.04976.pdf) |
 | Week 4 | [Top-Down Synthesis for Library Learning](https://arxiv.org/pdf/2211.16605.pdf)  |
 | Week 4 | [DreamCoder: Growing generalizable, interpretable knowledge with wake-sleep Bayesian program learning](https://arxiv.org/pdf/2006.08381.pdf) |
+| Week 5 | [Automated Antenna Design via Domain Knowledge-Informed Reinforcement Learning and Imitation Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10102809&tag=1) |
