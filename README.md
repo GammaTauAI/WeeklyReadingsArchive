@@ -9,3 +9,4 @@
 | Week 4 | [Top-Down Synthesis for Library Learning](https://arxiv.org/pdf/2211.16605.pdf)  |
 | Week 4 | [DreamCoder: Growing generalizable, interpretable knowledge with wake-sleep Bayesian program learning](https://arxiv.org/pdf/2006.08381.pdf) |
 | Week 5 | [Automated Antenna Design via Domain Knowledge-Informed Reinforcement Learning and Imitation Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10102809&tag=1) |
+| Week 6 | [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/abs/1712.01815) |
