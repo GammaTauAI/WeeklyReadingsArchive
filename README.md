@@ -11,3 +11,4 @@
 | Week 5 | [Automated Antenna Design via Domain Knowledge-Informed Reinforcement Learning and Imitation Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10102809&tag=1) |
 | Week 6 | [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/abs/1712.01815) |
 | Week 6 | [Transformer Feed-Forward Layers Are Key-Value Memories](https://arxiv.org/pdf/2012.14913.pdf) |
+| Week 7 | [The Suprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities](https://arxiv.org/pdf/1803.03453.pdf) |
