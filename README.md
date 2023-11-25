@@ -13,5 +13,6 @@
 | Week 6 | [Transformer Feed-Forward Layers Are Key-Value Memories](https://arxiv.org/pdf/2012.14913.pdf) |
 | Week 7 | [The Suprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities](https://arxiv.org/pdf/1803.03453.pdf) |
 | Week 8 | [The Alignment Problem from a Deep Learning Perspective](https://arxiv.org/pdf/2209.00626.pdf) |
+| Week 8 | [GFNs](https://yoshuabengio.org/2022/03/05/generative-flow-networks/) |
 | Week 9 | Presentation from [Federico Cassano](https://github.com/cassanof) |
 | Week 10 | Presentation from [Jacob (Jake) Ginesin](https://jakegines.in/) |
