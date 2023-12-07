@@ -16,3 +16,4 @@
 | Week 8 | [GFNs](https://yoshuabengio.org/2022/03/05/generative-flow-networks/) |
 | Week 9 | Presentation from [Federico Cassano](https://github.com/cassanof) |
 | Week 10 | Presentation from [Jacob (Jake) Ginesin](https://jakegines.in/) |
+| Week 11 | [A Path Towards Autonomous Machine Intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf) |
