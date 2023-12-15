@@ -17,3 +17,4 @@
 | Week 9 | Presentation from [Federico Cassano](https://github.com/cassanof) |
 | Week 10 | Presentation from [Jacob (Jake) Ginesin](https://jakegines.in/) |
 | Week 11 | [A Path Towards Autonomous Machine Intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf) |
+| Week 12 | Presentation from [Caden Juang](https://cadenjuang.me/) |
