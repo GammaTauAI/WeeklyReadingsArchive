@@ -20,3 +20,5 @@
 | Week 12 | Presentation from [Caden Juang](https://cadenjuang.me/) |
 | Week 13 | [Metallaxis-FL: Mutation-based Fault Localization](http://pages.cs.aueb.gr/~mpapad/papers/STVR2013.pdf) |
 | Week 14 | Discussion of spoken language and affects on cognition |
+| Week 15 | [All You Ever Wanted to Know About Dynamic Taint Analysis and Forward Symbolic Execution (but might have been afraid to ask)](https://edmcman.github.io/papers/oakland10.pdf) |
+| Week 15 | [Static versus dynamic analysis---an illusory distinction?)](https://www.humprog.org/~stephen//blog/research/static-and-dynamic-analyses.html) |
