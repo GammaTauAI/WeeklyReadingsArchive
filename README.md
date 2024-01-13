@@ -22,3 +22,5 @@
 | Week 14 | Discussion of spoken language and affects on cognition |
 | Week 15 | [All You Ever Wanted to Know About Dynamic Taint Analysis and Forward Symbolic Execution (but might have been afraid to ask)](https://edmcman.github.io/papers/oakland10.pdf) |
 | Week 15 | [Static versus dynamic analysis---an illusory distinction?](https://www.humprog.org/~stephen//blog/research/static-and-dynamic-analyses.html) |
+| Week 16 | [PROMPTBREEDER: SELF-REFERENTIAL SELF-IMPROVEMENT VIA PROMPT EVOLUTION](https://arxiv.org/pdf/2309.16797.pdf) |
+| Week Future | [LURK: Lambda, the Ultimate Recursive Knowledge (Experience Report)](https://eprint.iacr.org/2023/369.pdf) |
