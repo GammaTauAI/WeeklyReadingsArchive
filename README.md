@@ -23,4 +23,5 @@
 | Week 15 | [All You Ever Wanted to Know About Dynamic Taint Analysis and Forward Symbolic Execution (but might have been afraid to ask)](https://edmcman.github.io/papers/oakland10.pdf) |
 | Week 15 | [Static versus dynamic analysis---an illusory distinction?](https://www.humprog.org/~stephen//blog/research/static-and-dynamic-analyses.html) |
 | Week 16 | [PROMPTBREEDER: SELF-REFERENTIAL SELF-IMPROVEMENT VIA PROMPT EVOLUTION](https://arxiv.org/pdf/2309.16797.pdf) |
-| Week 17 | Presentation from Gio on [Differential Dynamic Logic for Hybrid Systems](https://link.springer.com/content/pdf/10.1007/s10817-008-9103-8.pdf) | 
+| Week 17 | Presentation from Gio on [Differential Dynamic Logic for Hybrid Systems](https://link.springer.com/content/pdf/10.1007/s10817-008-9103-8.pdf) |
+| Week 18 | [How to Evaluate Blame for Gradual Types](https://dl.acm.org/doi/pdf/10.1145/3473573) |
