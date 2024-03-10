@@ -26,3 +26,4 @@
 | Week 17 | Presentation from Gio on [Differential Dynamic Logic for Hybrid Systems](https://link.springer.com/content/pdf/10.1007/s10817-008-9103-8.pdf) |
 | Week 18 | [How to Evaluate Blame for Gradual Types](https://dl.acm.org/doi/pdf/10.1145/3473573) |
 | Week 19 | [Of Non-Linearity and Commutativity in BERT](https://arxiv.org/pdf/2101.04547.pdf) |
+| Week 20 | [Evolution through Large Models](https://arxiv.org/pdf/2206.08896.pdf) |
