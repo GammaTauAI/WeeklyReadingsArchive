@@ -28,3 +28,5 @@
 | Week 19 | [Of Non-Linearity and Commutativity in BERT](https://arxiv.org/pdf/2101.04547.pdf) |
 | Week 20 | [Evolution through Large Models](https://arxiv.org/pdf/2206.08896.pdf) |
 | Week 21 | [MACHINE LEARNING AND INFORMATION THEORY CONCEPTS TOWARDS AN AI MATHEMATICIAN](https://arxiv.org/pdf/2403.04571.pdf) |
+| Week 22 | [Training Verifiers to Solve Math Word Problems](https://arxiv.org/abs/2110.14168) |
+| Week 22 | [Let's Verify Step by Step](https://arxiv.org/abs/2305.20050) |
