@@ -31,3 +31,4 @@
 | Week 22 | [Training Verifiers to Solve Math Word Problems](https://arxiv.org/abs/2110.14168) |
 | Week 22 | [Let's Verify Step by Step](https://arxiv.org/abs/2305.20050) |
 | Week 23 | [ZeRO: Memory Optimizations Toward Training Trillion Parameter Models](https://arxiv.org/pdf/1910.02054.pdf) |
+| Week 24 | [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756) |
