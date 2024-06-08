@@ -33,4 +33,4 @@
 | Week 23 | [ZeRO: Memory Optimizations Toward Training Trillion Parameter Models](https://arxiv.org/pdf/1910.02054.pdf) |
 | Week 24 | [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756) |
 | Week 25 | [Q-Probe: A Lightweight Approach to Reward Maximization for Language Models](https://arxiv.org/abs/2402.14688) |
-| Week 26 | [Activation Steering for Robust Type Prediction in CodeLLMs](https://arxiv.org/pdf/2404.01903) |
+| Week 26 | [Activation Steering for Robust Type Prediction in CodeLLMs](https://arxiv.org/pdf/2404.01903). Guest talk from [Francessa Lucchetti](https://franlucc.github.io/) |
