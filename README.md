@@ -35,3 +35,4 @@
 | Week 25 | [Q-Probe: A Lightweight Approach to Reward Maximization for Language Models](https://arxiv.org/abs/2402.14688) |
 | Week 26 | [Activation Steering for Robust Type Prediction in CodeLLMs](https://arxiv.org/pdf/2404.01903). Guest talk from [Francessa Lucchetti](https://franlucc.github.io/) |
 | Week 27 | [egg: Fast and Extensible Equality Saturation](https://dl.acm.org/doi/pdf/10.1145/3434304) |
+| Week 28 | [Transformer Layers as Painters](https://arxiv.org/pdf/2407.09298v1) |
