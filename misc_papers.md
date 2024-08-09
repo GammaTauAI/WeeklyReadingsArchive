@@ -8,4 +8,4 @@
 | Week 4 | [Prior Probabilities](https://bayes.wustl.edu/etj/articles/prior.pdf)                                                                | Statistics                  |                |
 | Week 5 | [Automatic differentiation in ML: Where we are and where we should be going](https://arxiv.org/pdf/1810.11530.pdf)                   | Automatic Differentiation   | Putnam 2022 A2 |
 | Week 6 | [Simulating Galaxy Formation with the IllustrisTNG Model](https://arxiv.org/pdf/1703.02970.pdf)                                      | Simulations                 | Unpacking Putnam 2023, Congratulations to All Participants ! =] |
-| Week 7 | Differentiable Simulations | [On the Generality and Persistence of Cosmological Stasis](https://arxiv.org/pdf/2408.00835) | |
+| Week 7 | [On the Generality and Persistence of Cosmological Stasis](https://arxiv.org/pdf/2408.00835)  | Differentiable Simulations| |
